@@ -4,9 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>메인페이지</title>
 </head>
 <body>
-test
+<h1>메인 index</h1>
+<a href="#">게시판</a>
 </body>
 </html>
